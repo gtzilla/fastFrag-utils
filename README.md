@@ -7,7 +7,7 @@ The repos contains the python code used to generate JSON from HTML. This comes i
 Command line Script Usage
 ---------
 
-1. Checkout out this repos
+Checkout out this repos
 
     cd python
 
