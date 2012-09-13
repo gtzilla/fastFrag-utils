@@ -1,5 +1,5 @@
 #!/usr/bin/python -i
-# Set logging to "info" to find where the problem was, and then modified html_converter.py
+"""Set logging to "info" to find where the problem was, and then modified html_converter.py"""
 
 import logging
 import os
@@ -24,3 +24,5 @@ open_and_parse_file("input.html")
 # Could compare output to expect1.json, 
 # but would need to modify _parse_string to return the parsed json 
 # rather than just print it.
+#
+# See 'test.sh' for testing on a Linux or Unix platform using "diff".
