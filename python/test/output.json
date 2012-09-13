@@ -17,6 +17,9 @@ read a file @ input.html
                     }, 
                     {
                         "text": "<"
+                    }, 
+                    {
+                        "text": " 3), [1 to 5] #=> [1, 2]\nfilter even, {a: 3, b: 4, c: 0} #=> {b: 4, c: 0}\nfilter (== \\a), 'hahaha' #=> 'aaa'\n"
                     }
                 ], 
                 "css": "prettyprint lang-ls", 
@@ -39,6 +42,9 @@ read a file @ input.html
                     }, 
                     {
                         "text": "<"
+                    }, 
+                    {
+                        "text": "= 2; }, \n  {x: 4, y: 2, z: 8}); //=> {y: 2}\n"
                     }
                 ], 
                 "css": "prettyprint lang-js", 
