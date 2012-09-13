@@ -1,0 +1,50 @@
+read a file @ input.html
+--JSON ready: 
+
+[
+    {
+        "content": [
+            {
+                "content": {
+                    "text": "LiveScript"
+                }, 
+                "type": "h5"
+            }, 
+            {
+                "content": [
+                    {
+                        "text": "\nfilter ("
+                    }, 
+                    {
+                        "text": "<"
+                    }
+                ], 
+                "css": "prettyprint lang-ls", 
+                "type": "pre"
+            }
+        ]
+    }, 
+    {
+        "content": [
+            {
+                "content": {
+                    "text": "JavaScript"
+                }, 
+                "type": "h5"
+            }, 
+            {
+                "content": [
+                    {
+                        "text": "\nfilter(odd, [1, 2, 3, 4, 5]); //=> [1, 3, 5]\nfilter(function(x){ return x "
+                    }, 
+                    {
+                        "text": "<"
+                    }
+                ], 
+                "css": "prettyprint lang-js", 
+                "type": "pre"
+            }
+        ], 
+        "css": "example-js"
+    }
+]
